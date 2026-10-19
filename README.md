@@ -1,4 +1,4 @@
-### Hi, I'm Anzuruku Jacob — ANZ NEXUS 👋
+### Hi, I'm Anzuruku Jacob 👋
 
 Full-stack developer based in East Africa, building digital tools for problems I've watched play out in real communities — not hypothetical ones.
 
