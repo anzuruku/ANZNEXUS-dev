@@ -23,7 +23,7 @@ Deep in a Computer Science degree (University of the People) and a self-built ba
 
 **📫 Reach me**
 
-[LinkedIn](https://www.linkedin.com/in/anzuruku-jacob-5299852ab) · jacobanzuruku@gmail.com
+[LinkedIn](https://www.linkedin.com/in/anzuruku-jacob) · jacobanzuruku@gmail.com
 
 <!--
 **ANZNEXUS-dev/ANZNEXUS-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
